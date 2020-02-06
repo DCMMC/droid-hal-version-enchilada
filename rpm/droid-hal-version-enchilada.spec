@@ -1,11 +1,11 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device enchilada
+%define device fajita
 %define vendor oneplus
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty OnePlus
-%define device_pretty OnePlus 6
+%define device_pretty OnePlus 6T
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
