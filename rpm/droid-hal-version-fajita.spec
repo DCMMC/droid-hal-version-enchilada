@@ -1,5 +1,5 @@
-%define device enchilada
-%define device_pretty OnePlus 6
+%define device fajita
+%define device_pretty OnePlus 6T
 
 %include rpm/droid-hal-version-oneplus-sdm845.inc
 
